@@ -3,7 +3,7 @@ name: "Debug — Diagnostic"
 about: "Trame pour investiguer un bug et collecter les informations nécessaires au triage."
 title: "[DEBUG] "
 labels: "triage, bug"
-assignees: ""
+assignees: "AD2210"
 ---
 
 Résumé
