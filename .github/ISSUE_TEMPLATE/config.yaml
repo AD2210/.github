@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: "Support / Tri"
+    url: "mailto:contact.webprocreations@gmail.com"
+    about: "Contactez pour les bugs bloquants ou problèmes de triage."
