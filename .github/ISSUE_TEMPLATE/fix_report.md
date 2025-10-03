@@ -3,7 +3,7 @@ name: "Rapport de fix — Post-merge"
 about: "Trame pour documenter ce qui a été fait, validation et suivi après merge."
 title: "[FIX REPORT] "
 labels: "fix, postmortem"
-assignees: ""
+assignees: "AD2210"
 ---
 
 PR / Commit
